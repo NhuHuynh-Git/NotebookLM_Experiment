@@ -40,7 +40,7 @@ These examples demonstrate how machine learning techniques can be applied to add
 [Evaluate how useful the linking feature was.]
 
 ## Reference
-Link to document: 
+Link to documents: 
 - https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9429227
 - https://doi.org/10.1186/s40537-020-00318-5
 - https://doi.org/10.1155/2021/1476043
