@@ -34,10 +34,6 @@ The  perceptron model learns by adjusting its weights and bias during the traini
 - Customer Churn Prediction: Banks could use perceptrons to predict which customers are likely to close their accounts or switch to a competitor. This prediction could be based on factors like account activity, demographics, and customer service interactions. Here, inputs (x<sub>i</sub>) could be account balance, transaction frequency, age, and number of customer service calls. The model could learn to recognize patterns that indicate a customer's dissatisfaction or disengagement, allowing the bank to proactively address potential churn.
 - Personalized Marketing: Perceptrons can help banks personalize marketing campaigns by predicting customer responses to different offers based on their profile and past interactions. For example, inputs (x<sub>i</sub>) could represent a customer's demographics, purchase history, and website browsing behavior. The model could predict the likelihood of a customer responding to specific product promotions or marketing messages, enabling more targeted and effective campaigns.
 
-## Conclusion
-- Strengths:
-- Weaknesses:
-  
 ## Reference
 Link to document: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9429227
 
