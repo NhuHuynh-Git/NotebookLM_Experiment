@@ -36,9 +36,6 @@ from machine learning perspective
 
 These examples demonstrate how machine learning techniques can be applied to address a wide range of challenges in both communications and supply chain management. The choice of specific machine learning technique depends on the nature of the problem, available data, and desired outcome.
 
-## Conclusion
-[Evaluate how useful the linking feature was.]
-
 ## Reference
 Link to documents: 
 - https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9429227
