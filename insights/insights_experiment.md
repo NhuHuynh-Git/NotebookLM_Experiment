@@ -27,9 +27,5 @@ The bias term effectively 'calibrates' the perceptron, allowing it to make adjus
 
 During training, the perceptron learns to adjust both its weights and bias to minimize the difference between its predicted output and the actual output for the given training data.
 
-## Conclusion
-- Strengths: relevance
-- Weaknesses:
-
 ## Reference
 Link to document: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9429227
