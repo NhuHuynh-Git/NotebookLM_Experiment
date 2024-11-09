@@ -20,11 +20,8 @@ from machine learning perspective
     - Despite its impressive output, generative AI doesn’t have a coherent understanding of the world
 
 ## Observations
-- Ease of organization: [High/Moderate/Low]
-- Ease of retrieval: [High/Moderate/Low]
-
-## Conclusion
-[Summarize your experience with the organization tools.]
+- Ease of organization: High
+- Ease of retrieval: High
 
 ## Reference
 Link to documents:
